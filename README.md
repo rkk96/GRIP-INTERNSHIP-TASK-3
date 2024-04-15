@@ -3,7 +3,7 @@
 
 The dashboard gives us a deep understanding of sales report of the super store
 
-# Airlines-Dashboard
+# Sample Super Store Dashboard
 
 ### Dashboard Link : https://app.powerbi.com/view?r=eyJrIjoiZjFkNjc0MTUtMjY4MC00OWNkLWI3NTUtMWM0YzRhNDU0NDk3IiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9
 
